@@ -1,6 +1,6 @@
 # Eiguide
 
-A guide tour framework for einsights
+A guide tour framework for Einsights
 
 ## Getting Started
 Download the [production version][min] or the [development version][max].
@@ -15,7 +15,7 @@ In your web page:
 <script src="dist/eiguide.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  $.eiguide(); // "awesome"
 });
 </script>
 ```
