@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed070a0-5c3e-4d6a-99a1-f604bfd5dbff" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eiguide.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,7 +67,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="6" selection-start="21" selection-end="21" vertical-scroll-proportion="0.033707865" vertical-offset="0" max-vertical-offset="445">
+            <state line="2" column="1" selection-start="23" selection-end="23" vertical-scroll-proportion="0.06741573" vertical-offset="0" max-vertical-offset="445">
               <folding />
             </state>
           </provider>
@@ -385,7 +383,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="6" selection-start="21" selection-end="21" vertical-scroll-proportion="0.033707865" vertical-offset="0" max-vertical-offset="445">
+        <state line="2" column="1" selection-start="23" selection-end="23" vertical-scroll-proportion="0.06741573" vertical-offset="0" max-vertical-offset="445">
           <folding />
         </state>
       </provider>
